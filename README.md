@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Versions that I have used:
 
 UI Versions:
-————————————————
+\n————————————————
 Angular - 16.2.0
 Node: 20.5.1
 npm: 9.8.0
