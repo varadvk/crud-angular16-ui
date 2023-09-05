@@ -39,3 +39,8 @@ Backend Versions:
 Java: 17.0.8
 Maven: 3.9.4
 Spring Boot: 3.1.3
+
+
+## Install bootstrap and material UI in angular project:
+a <br>
+b <br>
